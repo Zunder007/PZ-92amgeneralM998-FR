@@ -1,0 +1,28 @@
+IG_UI_FR = {
+	IGUI_VehiclePartM998BackCover = "Bâche arrière",
+	IGUI_VehiclePartM998Mudflaps = "Garde-boues",
+	IGUI_VehiclePartM998TrunkBarrier = "Barrière de coffre",
+	IGUI_VehiclePartM998DoorFrontLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartM998DoorFrontRightArmor = "Blindage de portière avant droite",
+	IGUI_VehiclePartM998DoorRearLeftArmor = "Blindage de portière arrière gauche",
+	IGUI_VehiclePartM998DoorRearRightArmor = "Blindage de portière arrière droite",
+	IGUI_VehiclePartM998WindshieldArmor = "Blindage de Pare-brise",
+	IGUI_VehiclePartM998Roofrack = "Galerie de toit",
+	IGUI_VehicleNameTrailerM101A3cargo = "'92 REmorque M101A3",
+	IGUI_VehiclePartTrunkDoorTwo = "Fermeture de coffre",
+	IGUI_VehiclePartM101A3Cover = "Bâche en dur de Remorque",
+	IGUI_VehiclePartM101A3Tarp = "Bâche de Remorque",
+	IGUI_VehiclePartM101A3Spare = "Rouie de secours avant",
+	IGUI_VehiclePartM101A3Trunk = "Stockage de Remorque",
+
+
+	IGUI_VehicleName92amgeneralM998 = "'92 AM General M998 HMMWV",
+	IGUI_VehicleName92amgeneralM998Burnt = "'92 AM General M998 HMMWV (Brûlé)",
+
+	IGUI_VehiclePartM998Trunk = "Coffre",
+	IGUI_VehiclePartM998SpareTire = "Roue de secours",
+	IGUI_VehiclePartM998Bullbar = "Pare-buffle",
+	IGUI_VehiclePartM998Muffler = "Silencieux",
+
+	IGUI_CraftCategory_M998 = "'92 AM General M998 + Remorque M101A3",
+}
