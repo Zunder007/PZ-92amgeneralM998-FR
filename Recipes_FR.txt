@@ -1,0 +1,15 @@
+Recipes_FR = {
+	Recipe_Convert_M998_RunFlat_Tire = "Convertir Pneu anti-crevaison",
+	Recipe_Dismantle_Spare_Tire_with_Mount = "Démonter Roue de secours avec support",
+	Recipe_Make_M101A3_Tarp = "Fabriquer Bâche",
+	Recipe_Make_M998_Big_Bullbar = "Fabriquer Large Pare-buffle",
+	Recipe_Make_M998_Front_Door_Armor = "Fabriquer Blindage de Portière avant",
+	Recipe_Make_M998_Makeshift_Windshield_Armor = "Fabriquer Blindage de Pare-brise artisanal",
+	Recipe_Make_M998_Net_Trunk_Barrier = "Fabriquer un filet pour Barrière de coffre",
+	Recipe_Make_M998_Rear_Door_Armor = "Fabriquer Blindage de Portière arrière",
+	Recipe_Make_M998_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_M998_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_M998_Small_Muffler = "Fabriquer Petit silencieux",
+	Recipe_Make_M998_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_M998_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+}
