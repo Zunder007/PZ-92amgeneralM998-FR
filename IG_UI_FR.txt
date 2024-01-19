@@ -24,5 +24,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartM998Bullbar = "Pare-buffle",
 	IGUI_VehiclePartM998Muffler = "Silencieux",
 
-	IGUI_CraftCategory_M998 = "'92 AM General M998 + Remorque M101A3",
+	IGUI_CraftCategory_M998 = "'92 AM General M998",
+	IGUI_CraftCategory_M101A3 = "Remorque M101A3",
 }
